@@ -1,4 +1,4 @@
-    int LED_PIN = 9;
+    int LED_PIN = 3;
     int POT_PIN = A0;
     
     void setup() {
